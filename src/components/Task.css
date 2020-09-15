@@ -1,0 +1,19 @@
+p.task {
+    font-size: 1.5rem;
+    color: wheat;
+}
+
+button.task {
+    margin-left: 10px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    color: gray;
+    cursor: pointer;
+    transition: .3s linear;
+    border: none;
+}
+
+button.task:hover {
+    color: wheat;
+    background-color: rgb(16, 7, 95);
+}
